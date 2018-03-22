@@ -1,5 +1,5 @@
 # TechTutor
-homework Help 
+Homework Help
 Hanan
 Bilan
 Nalani
